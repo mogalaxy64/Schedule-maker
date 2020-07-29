@@ -13,7 +13,11 @@ def main():
 	for i in range(classNum):
 		s +=f.readline()
 	f.close()
-	print(s)
+	#print(s)
+	#Now I need to parse the string to get all the values needed for each class
+	#Can either store each class info into a single array and iterate through
+	#Or can create array for each data type I need to get and iterate through those for each line
+
 
 
 main()
