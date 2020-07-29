@@ -1,0 +1,8 @@
+Start	Class End	Day	Start Time	End Time	Building	Room #	Campus	Comment
+CSC 480.	001	Software Engineering	Zhao, Qiang	3.00	08/18/2020	12/12/2020	M W F	9:00 AM	9:50 AM	WSC-MCN	WSC 212	Macon Campus	Lab Fee Required
+JMS 385.	001	Media Entrepreneurship	#Staff, TBA	3.00	08/18/2020	12/12/2020	T R	12:15 PM	1:30 PM	CCJ-MCN	CCJ 131	Macon Campus	Lab Fee Required. Instructor = Damon Wood
+MAT 225.	001	Discrete Mathematics	McIlwain, Mary	4.00	08/18/2020	12/12/2020	M W F	12:00 PM	12:50 PM	WSC-MCN	WSC 104	Macon Campus	 
+MAT 225.	001	Discrete Mathematics	McIlwain, Mary	4.00	08/18/2020	12/12/2020	W	10:00 AM	10:50 AM	WSC-MCN	WSC 110	Macon Campus	 
+MIL 401.	001	The Army Officer	Montgomery, Mark	3.00	08/18/2020	12/12/2020	R	3:05 PM	5:35 PM	GSC-MCN	GSC 102	Macon Campus	 
+MIL 401.	001	The Army Officer	Montgomery, Mark	3.00	08/18/2020	12/12/2020	T R	8:00 AM	9:15 AM	PEN-MCN	PEN 14	Macon Campus	 
+PED 141.	002 #	Beginner Athletics: Tennis	Hayes, Eric	1.00	08/18/2020	12/12/2020	T	9:25 AM	10:40 AM	TNC-MCN	TNC CRTS	Macon Campus	 
